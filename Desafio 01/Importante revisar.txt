@@ -1,2 +1,13 @@
 Link com os passos necessários para executar o desafio 01 
 https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view
+
+
+Após adicionar um arqui a pasta do PC usar o comando 
+git add . 
+serve para adicionar a nuvem 
+ depois 
+git commit -m ""
+serve pra escrever um camentário sabe o que foi adicionado 
+e logo após 
+git orgin main para sincronisar os conteudos e deixar acessível na nuvem 
+
