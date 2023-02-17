@@ -9,5 +9,6 @@ serve para adicionar a nuvem
 git commit -m ""
 serve pra escrever um camentário sabe o que foi adicionado 
 e logo após 
-git push orgin main para sincronisar os conteudos e deixar acessível na nuvem 
+git push orgin main 
+Para sincronisar os conteudos e deixar acessível na nuvem 
 
